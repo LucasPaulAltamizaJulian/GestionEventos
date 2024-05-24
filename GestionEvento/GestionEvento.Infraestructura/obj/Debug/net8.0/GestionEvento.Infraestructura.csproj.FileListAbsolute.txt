@@ -1,0 +1,17 @@
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\bin\Debug\net8.0\GestionEvento.Infraestructura.deps.json
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\bin\Debug\net8.0\GestionEvento.Infraestructura.runtimeconfig.json
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\bin\Debug\net8.0\GestionEvento.Infraestructura.dll
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\bin\Debug\net8.0\GestionEvento.Infraestructura.pdb
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\bin\Debug\net8.0\GestionEvento.Dominio.dll
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\bin\Debug\net8.0\GestionEvento.Dominio.pdb
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\obj\Debug\net8.0\GestionEvento.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\obj\Debug\net8.0\GestionEvento.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\obj\Debug\net8.0\GestionEvento.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\obj\Debug\net8.0\GestionEvento.Infraestructura.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\obj\Debug\net8.0\GestionEvento.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\obj\Debug\net8.0\GestionE.F369CC17.Up2Date
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\obj\Debug\net8.0\GestionEvento.Infraestructura.dll
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\obj\Debug\net8.0\refint\GestionEvento.Infraestructura.dll
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\obj\Debug\net8.0\GestionEvento.Infraestructura.pdb
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\obj\Debug\net8.0\GestionEvento.Infraestructura.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Infraestructura\obj\Debug\net8.0\ref\GestionEvento.Infraestructura.dll

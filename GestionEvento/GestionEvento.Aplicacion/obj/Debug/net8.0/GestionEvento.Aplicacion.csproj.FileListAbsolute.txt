@@ -1,0 +1,11 @@
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Aplicacion\bin\Debug\net8.0\GestionEvento.Aplicacion.deps.json
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Aplicacion\bin\Debug\net8.0\GestionEvento.Aplicacion.dll
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Aplicacion\bin\Debug\net8.0\GestionEvento.Aplicacion.pdb
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Aplicacion\obj\Debug\net8.0\GestionEvento.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Aplicacion\obj\Debug\net8.0\GestionEvento.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Aplicacion\obj\Debug\net8.0\GestionEvento.Aplicacion.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Aplicacion\obj\Debug\net8.0\GestionEvento.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Aplicacion\obj\Debug\net8.0\GestionEvento.Aplicacion.dll
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Aplicacion\obj\Debug\net8.0\refint\GestionEvento.Aplicacion.dll
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Aplicacion\obj\Debug\net8.0\GestionEvento.Aplicacion.pdb
+C:\Users\lucas\OneDrive\Escritorio\GestionEvento\GestionEvento.Aplicacion\obj\Debug\net8.0\ref\GestionEvento.Aplicacion.dll

@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|c:\\users\\lucas\\onedrive\\escritorio\\gestionevento\\gestionevento.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|solutionrelative:gestionevento.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|c:\\users\\lucas\\onedrive\\escritorio\\gestionevento\\gestionevento.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|solutionrelative:gestionevento.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|c:\\users\\lucas\\onedrive\\escritorio\\gestionevento\\gestionevento.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|solutionrelative:gestionevento.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C6CA73-84F0-4B33-8BFD-E3E7326F4560}|GestionEvento.Dominio\\GestionEvento.Dominio.csproj|c:\\users\\lucas\\onedrive\\escritorio\\gestionevento\\gestionevento.dominio\\entidades\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C6CA73-84F0-4B33-8BFD-E3E7326F4560}|GestionEvento.Dominio\\GestionEvento.Dominio.csproj|solutionrelative:gestionevento.dominio\\entidades\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|c:\\users\\lucas\\onedrive\\escritorio\\gestionevento\\gestionevento.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|solutionrelative:gestionevento.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|c:\\users\\lucas\\onedrive\\escritorio\\gestionevento\\gestionevento.web\\controllers\\gestioneventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|solutionrelative:gestionevento.web\\controllers\\gestioneventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|c:\\users\\lucas\\onedrive\\escritorio\\gestionevento\\gestionevento.web\\views\\gestionevento\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|solutionrelative:gestionevento.web\\views\\gestionevento\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|c:\\users\\lucas\\onedrive\\escritorio\\gestionevento\\gestionevento.web\\views\\gestionevento\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|solutionrelative:gestionevento.web\\views\\gestionevento\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|c:\\users\\lucas\\onedrive\\escritorio\\gestionevento\\gestionevento.web\\views\\gestionevento\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|solutionrelative:gestionevento.web\\views\\gestionevento\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|c:\\users\\lucas\\onedrive\\escritorio\\gestionevento\\gestionevento.web\\views\\gestionevento\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|solutionrelative:gestionevento.web\\views\\gestionevento\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|c:\\users\\lucas\\onedrive\\escritorio\\gestionevento\\gestionevento.web\\views\\gestionevento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85832DA0-F3C4-4FCF-AC79-8072B923358F}|GestionEvento.web\\GestionEvento.web.csproj|solutionrelative:gestionevento.web\\views\\gestionevento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GestionEvento.web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\appsettings.Development.json",
+              "RelativeToolTip": "GestionEvento.web\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T04:34:55.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestionEvento.web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestionEvento.web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:25:13.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionEvento.web\\appsettings.json",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\appsettings.json",
+              "RelativeToolTip": "GestionEvento.web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T03:33:55.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Views\\GestionEvento\\Editar.cshtml",
+              "RelativeDocumentMoniker": "GestionEvento.web\\Views\\GestionEvento\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Views\\GestionEvento\\Editar.cshtml",
+              "RelativeToolTip": "GestionEvento.web\\Views\\GestionEvento\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T03:31:34.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Views\\GestionEvento\\Crear.cshtml",
+              "RelativeDocumentMoniker": "GestionEvento.web\\Views\\GestionEvento\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Views\\GestionEvento\\Crear.cshtml",
+              "RelativeToolTip": "GestionEvento.web\\Views\\GestionEvento\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T03:31:08.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Detalles.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Views\\GestionEvento\\Detalles.cshtml",
+              "RelativeDocumentMoniker": "GestionEvento.web\\Views\\GestionEvento\\Detalles.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Views\\GestionEvento\\Detalles.cshtml",
+              "RelativeToolTip": "GestionEvento.web\\Views\\GestionEvento\\Detalles.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T03:29:26.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Program.cs",
+              "RelativeDocumentMoniker": "GestionEvento.web\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Program.cs",
+              "RelativeToolTip": "GestionEvento.web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:39:32.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Views\\GestionEvento\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "GestionEvento.web\\Views\\GestionEvento\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Views\\GestionEvento\\Eliminar.cshtml",
+              "RelativeToolTip": "GestionEvento.web\\Views\\GestionEvento\\Eliminar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T03:31:57.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Views\\GestionEvento\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionEvento.web\\Views\\GestionEvento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Views\\GestionEvento\\Index.cshtml",
+              "RelativeToolTip": "GestionEvento.web\\Views\\GestionEvento\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T03:28:36.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.Dominio\\Entidades\\Evento.cs",
+              "RelativeDocumentMoniker": "GestionEvento.Dominio\\Entidades\\Evento.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.Dominio\\Entidades\\Evento.cs",
+              "RelativeToolTip": "GestionEvento.Dominio\\Entidades\\Evento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:02:49.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestionEventoController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Controllers\\GestionEventoController.cs",
+              "RelativeDocumentMoniker": "GestionEvento.web\\Controllers\\GestionEventoController.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\GestionEvento\\GestionEvento.web\\Controllers\\GestionEventoController.cs",
+              "RelativeToolTip": "GestionEvento.web\\Controllers\\GestionEventoController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAqwBgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:12:38.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

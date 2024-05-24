@@ -1,0 +1,23 @@
+﻿@model GestionEvento.Dominio.Entidades.Evento
+
+<h2>Eliminar Evento</h2>
+
+<h3>¿Estás seguro de que quieres eliminar este evento?</h3>
+<div>
+    <h4>@Model.Nom_Evento</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Fecha:</dt>
+        <dd>@Model.Fecha_Evento.ToShortDateString()</dd>
+        <dt>Descripción:</dt>
+        <dd>@Model.Desc_Evento</dd>
+        <dt>Número de Asistentes:</dt>
+        <dd>@Model.Num_Asistentes_Evento</dd>
+    </dl>
+</div>
+
+<form asp-action="Eliminar">
+    <input type="hidden" asp-for="EventoId" />
+    <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+    <a asp-action="Index">Cancelar</a>
+</form>

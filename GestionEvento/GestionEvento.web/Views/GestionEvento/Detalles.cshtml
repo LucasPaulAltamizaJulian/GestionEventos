@@ -1,0 +1,19 @@
+﻿@model GestionEvento.Dominio.Entidades.Evento
+
+<h2>Detalles del Evento</h2>
+
+<div>
+    <h4>@Model.Nom_Evento</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Fecha:</dt>
+        <dd>@Model.Fecha_Evento.ToShortDateString()</dd>
+        <dt>Descripción:</dt>
+        <dd>@Model.Desc_Evento</dd>
+        <dt>Número de Asistentes:</dt>
+        <dd>@Model.Num_Asistentes_Evento</dd>
+    </dl>
+</div>
+<p>
+    <a asp-action="Index">Volver a la Lista</a>
+</p>
